@@ -1,3 +1,1 @@
-Essa aula é o exercício da aula prática lá do curso POO do Curso em vídeo do Gustavo Guanabara.
-A ideia aqui é criar uma classe de um controle remoto e em seguida instanciar os atributos e métodos dessa classe.
-Vemos exemplos de encapsulamento da prática.
+Aulas do Curso em Vídeo usando IDE NetBeans e IDE Eclipse (Até a 5ª aula no Neatbeans e depois migrando para o Eclipse a partir da aula 6), são exercícios utilizando conceitos de POO (Classes, instâncias de classes, abstração, encapsulamento, métodos getters e setters...) com a prática usando JAVA. 
